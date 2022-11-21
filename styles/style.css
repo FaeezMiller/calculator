@@ -3,7 +3,7 @@
     padding: 10px;
     border-radius: 1em;
     height: 380px;
-    width: 400px;
+    width: 300px;
     margin: auto;
     background-color: black;
     box-shadow: black 0px 10px 20px, black 0px 6px 6px;
@@ -32,9 +32,9 @@ input[type=button] {
     height: 70%;
     outline: none;
 }
-/* input:active[type=button] {
+ input:active[type=button] {
     background: #e5e5e5;
     -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
     -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
     box-shadow: inset 0px 0px 5px #c1c1c1;
-} */
+} 
