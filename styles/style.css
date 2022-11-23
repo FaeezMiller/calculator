@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
 .calculator {
     padding: 10px;
     border-radius: 1em;
@@ -11,7 +12,7 @@
 .display-box {
     font-family: 'Technology', sans-serif;
     font-size: 2em;
-    background-color: #dcdbe1;
+    background-color: white;
     border: solid #7393B3 0.5px;
     color: black;
     border-radius: 5px;
@@ -32,9 +33,9 @@ input[type=button] {
     height: 70%;
     outline: none;
 }
- input:active[type=button] {
+ /* input:active[type=button] {
     background: #e5e5e5;
     -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
     -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
     box-shadow: inset 0px 0px 5px #c1c1c1;
-} 
+}  */
